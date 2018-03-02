@@ -1,0 +1,6 @@
+c:\users\efren\documents\visual studio 2015\Projects\NumeroInvertido\NumeroInvertido\bin\Debug\NumeroInvertido.exe.config
+c:\users\efren\documents\visual studio 2015\Projects\NumeroInvertido\NumeroInvertido\bin\Debug\NumeroInvertido.exe
+c:\users\efren\documents\visual studio 2015\Projects\NumeroInvertido\NumeroInvertido\bin\Debug\NumeroInvertido.pdb
+c:\users\efren\documents\visual studio 2015\Projects\NumeroInvertido\NumeroInvertido\obj\Debug\NumeroInvertido.csprojResolveAssemblyReference.cache
+c:\users\efren\documents\visual studio 2015\Projects\NumeroInvertido\NumeroInvertido\obj\Debug\NumeroInvertido.exe
+c:\users\efren\documents\visual studio 2015\Projects\NumeroInvertido\NumeroInvertido\obj\Debug\NumeroInvertido.pdb
