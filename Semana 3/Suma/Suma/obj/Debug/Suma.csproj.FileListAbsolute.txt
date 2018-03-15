@@ -1,1 +1,6 @@
 c:\users\efren\documents\visual studio 2015\Projects\Suma\Suma\bin\Debug\Suma.exe.config
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 3\Suma\Suma\bin\Debug\Suma.exe.config
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 3\Suma\Suma\bin\Debug\Suma.exe
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 3\Suma\Suma\bin\Debug\Suma.pdb
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 3\Suma\Suma\obj\Debug\Suma.exe
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 3\Suma\Suma\obj\Debug\Suma.pdb

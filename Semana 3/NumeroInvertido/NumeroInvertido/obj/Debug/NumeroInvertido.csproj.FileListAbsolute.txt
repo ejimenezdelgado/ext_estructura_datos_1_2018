@@ -4,3 +4,9 @@ c:\users\efren\documents\visual studio 2015\Projects\NumeroInvertido\NumeroInver
 c:\users\efren\documents\visual studio 2015\Projects\NumeroInvertido\NumeroInvertido\obj\Debug\NumeroInvertido.csprojResolveAssemblyReference.cache
 c:\users\efren\documents\visual studio 2015\Projects\NumeroInvertido\NumeroInvertido\obj\Debug\NumeroInvertido.exe
 c:\users\efren\documents\visual studio 2015\Projects\NumeroInvertido\NumeroInvertido\obj\Debug\NumeroInvertido.pdb
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 3\NumeroInvertido\NumeroInvertido\bin\Debug\NumeroInvertido.exe.config
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 3\NumeroInvertido\NumeroInvertido\obj\Debug\NumeroInvertido.exe
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 3\NumeroInvertido\NumeroInvertido\obj\Debug\NumeroInvertido.pdb
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 3\NumeroInvertido\NumeroInvertido\bin\Debug\NumeroInvertido.exe
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 3\NumeroInvertido\NumeroInvertido\bin\Debug\NumeroInvertido.pdb
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 3\NumeroInvertido\NumeroInvertido\obj\Debug\NumeroInvertido.csprojResolveAssemblyReference.cache

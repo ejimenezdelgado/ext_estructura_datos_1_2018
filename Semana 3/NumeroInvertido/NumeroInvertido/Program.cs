@@ -16,14 +16,16 @@ namespace NumeroInvertido
             int unidad = 0;
             string linea = "";
             /*Imprimir en consola*/
-            Console.WriteLine("INGRESE NÚMERO DE DOS CIFRAS :");
+            Console.WriteLine("INGRESE NÚMERO " +
+                              "DE DOS CIFRAS :");
             /*Solicitar en consola*/
             linea = Console.ReadLine();
             numero = int.Parse(linea);
             numeroDecimal = numero / 10;
             unidad = numero % 10;
             auxiliar = (unidad * 10) + numeroDecimal;
-            Console.WriteLine("NÚMERO INVERTIDO ES: " + auxiliar);
+            Console.WriteLine("NÚMERO INVERTIDO ES: "
+                + auxiliar);
             Console.WriteLine("Pulse una Tecla:");
             Console.ReadLine();
         }

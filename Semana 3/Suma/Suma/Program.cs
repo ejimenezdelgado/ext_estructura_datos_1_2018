@@ -12,8 +12,11 @@ namespace Suma
         {
             int x = 10;
             int y = 20;
-            Console.WriteLine("El resultado es: " + (x + y)); 
-            // Imprimirá en pantalla: "El resultado es: 30"
+            Console.WriteLine("El resultado es: "
+                + (x + y));
+            Console.ReadLine();
+            // Imprimirá en pantalla: 
+            //"El resultado es: 30"
         }
     }
 }

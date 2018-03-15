@@ -1,2 +1,8 @@
 c:\users\efren\documents\visual studio 2015\Projects\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
 C:\Users\Efren\Documents\Visual Studio 2015\Projects\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csprojResolveAssemblyReference.cache
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 3\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 3\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 3\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 3\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csprojResolveAssemblyReference.cache
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 3\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 3\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb
