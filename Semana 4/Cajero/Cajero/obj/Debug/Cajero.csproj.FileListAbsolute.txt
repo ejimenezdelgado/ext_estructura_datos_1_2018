@@ -1,0 +1,6 @@
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 4\Cajero\Cajero\bin\Debug\Cajero.exe.config
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 4\Cajero\Cajero\bin\Debug\Cajero.exe
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 4\Cajero\Cajero\bin\Debug\Cajero.pdb
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 4\Cajero\Cajero\obj\Debug\Cajero.csprojResolveAssemblyReference.cache
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 4\Cajero\Cajero\obj\Debug\Cajero.exe
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 4\Cajero\Cajero\obj\Debug\Cajero.pdb

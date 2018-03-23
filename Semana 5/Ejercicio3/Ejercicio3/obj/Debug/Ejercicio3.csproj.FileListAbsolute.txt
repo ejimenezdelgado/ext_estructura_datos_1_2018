@@ -1,0 +1,6 @@
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 5\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 5\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 5\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 5\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csprojResolveAssemblyReference.cache
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 5\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 5\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb
