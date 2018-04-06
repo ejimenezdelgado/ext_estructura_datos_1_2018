@@ -19,7 +19,7 @@ namespace ejercicio4
             while (contador <=9)
             {
                 digito= numero % 10;
-                sumatoria = sumatoria+int.Parse(Math.Pow((digito * 2), contador)+"");
+                sumatoria = sumatoria+(int)(Math.Pow((digito * 2), contador));
                 contador = contador + 1;
                 numero = numero / 10;
             }

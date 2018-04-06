@@ -22,7 +22,7 @@ namespace ejercicio2
                 numerotemporal = numerotemporal/10;
             }
             numeroInverso =  numeroInverso + "" + numerotemporal;
-            Console.WriteLine("El numero inverso es");
+            Console.WriteLine("El numero inverso es"+ numeroInverso);
             if (int.Parse(numeroInverso) == numero)
             {
                 Console.WriteLine("El numero si es =)");
