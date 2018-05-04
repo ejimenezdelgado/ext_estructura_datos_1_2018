@@ -1,0 +1,9 @@
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 7\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 7\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 7\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 7\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojResolveAssemblyReference.cache
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 7\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.FrmPrincipal.resources
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 7\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 7\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.Cache
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 7\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 7\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb

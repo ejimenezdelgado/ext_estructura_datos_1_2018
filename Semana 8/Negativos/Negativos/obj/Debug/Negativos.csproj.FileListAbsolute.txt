@@ -1,0 +1,7 @@
+C:\Users\PC\Source\Repos\Negativos\Negativos\bin\Debug\Negativos.exe.config
+C:\Users\PC\Source\Repos\Negativos\Negativos\bin\Debug\Negativos.exe
+C:\Users\PC\Source\Repos\Negativos\Negativos\bin\Debug\Negativos.pdb
+C:\Users\PC\Source\Repos\Negativos\Negativos\obj\Debug\Negativos.csprojResolveAssemblyReference.cache
+C:\Users\PC\Source\Repos\Negativos\Negativos\obj\Debug\Negativos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Source\Repos\Negativos\Negativos\obj\Debug\Negativos.exe
+C:\Users\PC\Source\Repos\Negativos\Negativos\obj\Debug\Negativos.pdb

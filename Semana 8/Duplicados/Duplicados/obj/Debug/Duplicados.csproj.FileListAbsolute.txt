@@ -1,0 +1,7 @@
+C:\Users\PC\Source\Repos\Duplicados\Duplicados\bin\Debug\Duplicados.exe.config
+C:\Users\PC\Source\Repos\Duplicados\Duplicados\bin\Debug\Duplicados.exe
+C:\Users\PC\Source\Repos\Duplicados\Duplicados\bin\Debug\Duplicados.pdb
+C:\Users\PC\Source\Repos\Duplicados\Duplicados\obj\Debug\Duplicados.csprojResolveAssemblyReference.cache
+C:\Users\PC\Source\Repos\Duplicados\Duplicados\obj\Debug\Duplicados.csproj.CoreCompileInputs.cache
+C:\Users\PC\Source\Repos\Duplicados\Duplicados\obj\Debug\Duplicados.exe
+C:\Users\PC\Source\Repos\Duplicados\Duplicados\obj\Debug\Duplicados.pdb

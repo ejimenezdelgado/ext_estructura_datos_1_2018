@@ -1,0 +1,7 @@
+C:\Users\PC\Source\Repos\Palindromo\Palindromo\bin\Debug\Palindromo.exe.config
+C:\Users\PC\Source\Repos\Palindromo\Palindromo\bin\Debug\Palindromo.exe
+C:\Users\PC\Source\Repos\Palindromo\Palindromo\bin\Debug\Palindromo.pdb
+C:\Users\PC\Source\Repos\Palindromo\Palindromo\obj\Debug\Palindromo.csprojResolveAssemblyReference.cache
+C:\Users\PC\Source\Repos\Palindromo\Palindromo\obj\Debug\Palindromo.csproj.CoreCompileInputs.cache
+C:\Users\PC\Source\Repos\Palindromo\Palindromo\obj\Debug\Palindromo.exe
+C:\Users\PC\Source\Repos\Palindromo\Palindromo\obj\Debug\Palindromo.pdb
