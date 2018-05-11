@@ -71,13 +71,16 @@ namespace Banco
                     int usuario = int.Parse(Console.ReadLine());
                     for (int i = 0; i < cantidad; i++)
                     {
-                        if (cuentas[i].usuario == usuario)
+                        if (cuentas[i] != null)
                         {
-                            Console.WriteLine("Digite el deposito");
-                            float saldo = float.Parse(Console.ReadLine());
-                            cuentas[i].Deposito(saldo);
-                            Console.WriteLine("Deposito realizado");
-                            break;
+                            if (cuentas[i].usuario == usuario)
+                            {
+                                Console.WriteLine("Digite el deposito");
+                                float saldo = float.Parse(Console.ReadLine());
+                                cuentas[i].Deposito(saldo);
+                                Console.WriteLine("Deposito realizado");
+                                break;
+                            }
                         }
                     }
                 }
@@ -88,13 +91,16 @@ namespace Banco
                     int usuario = int.Parse(Console.ReadLine());
                     for (int i = 0; i < cantidad; i++)
                     {
-                        if (cuentas[i].usuario == usuario)
+                        if (cuentas[i] != null)
                         {
-                            Console.WriteLine("Digite el retiro");
-                            float saldo = float.Parse(Console.ReadLine());
-                            cuentas[i].Retiro(saldo);
-                            Console.WriteLine("Retiro realizado");
-                            break;
+                            if (cuentas[i].usuario == usuario)
+                            {
+                                Console.WriteLine("Digite el retiro");
+                                float saldo = float.Parse(Console.ReadLine());
+                                cuentas[i].Retiro(saldo);
+                                Console.WriteLine("Retiro realizado");
+                                break;
+                            }
                         }
                     }
                 }
@@ -105,12 +111,20 @@ namespace Banco
                     int usuario = int.Parse(Console.ReadLine());
                     for (int i = 0; i < cantidad; i++)
                     {
-                        if (cuentas[i].usuario == usuario)
+                        if (cuentas[i] != null)
                         {
-                            Console.WriteLine(cuentas[i].Impresion());
-                            break;
+                            if (cuentas[i].usuario == usuario)
+                            {
+                                Console.WriteLine(cuentas[i].Impresion());
+                                break;
+                            }
                         }
                     }
+                }
+
+                if (opcion == 5)
+                {
+                    bandera = true;
                 }
             }
         }
