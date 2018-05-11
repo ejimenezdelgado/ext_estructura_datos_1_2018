@@ -15,7 +15,7 @@ namespace Banco
             int cantidad = Int32.Parse(Console.ReadLine());
             cuentas=new Cuenta[cantidad];
             bool bandera = false;
-            while (bandera==false)
+            while (bandera == false)
             {
                 Console.WriteLine("1. Agregar cuenta");
                 Console.WriteLine("2. Realizar deposito");
@@ -41,7 +41,7 @@ namespace Banco
 
                     if (tipoCuenta == 1)
                     {
-                        Cuenta oCuenta = new Cuenta(usuario, saldo, observacion,TipoCuenta.debito);
+                        Cuenta oCuenta = new Cuenta(usuario, saldo, observacion, TipoCuenta.debito);
                         for (int i = 0; i < cantidad; i++)
                         {
                             if (cuentas[i] == null)
@@ -63,9 +63,55 @@ namespace Banco
                             }
                         }
                     }
-                    
                 }
 
+                if (opcion == 2)
+                {
+                    Console.WriteLine("Digite el usuario");
+                    int usuario = int.Parse(Console.ReadLine());
+                    for (int i = 0; i < cantidad; i++)
+                    {
+                        if (cuentas[i].usuario == usuario)
+                        {
+                            Console.WriteLine("Digite el deposito");
+                            float saldo = float.Parse(Console.ReadLine());
+                            cuentas[i].Deposito(saldo);
+                            Console.WriteLine("Deposito realizado");
+                            break;
+                        }
+                    }
+                }
+
+                if (opcion == 3)
+                {
+                    Console.WriteLine("Digite el usuario");
+                    int usuario = int.Parse(Console.ReadLine());
+                    for (int i = 0; i < cantidad; i++)
+                    {
+                        if (cuentas[i].usuario == usuario)
+                        {
+                            Console.WriteLine("Digite el retiro");
+                            float saldo = float.Parse(Console.ReadLine());
+                            cuentas[i].Retiro(saldo);
+                            Console.WriteLine("Retiro realizado");
+                            break;
+                        }
+                    }
+                }
+
+                if (opcion == 4)
+                {
+                    Console.WriteLine("Digite el usuario");
+                    int usuario = int.Parse(Console.ReadLine());
+                    for (int i = 0; i < cantidad; i++)
+                    {
+                        if (cuentas[i].usuario == usuario)
+                        {
+                            Console.WriteLine(cuentas[i].Impresion());
+                            break;
+                        }
+                    }
+                }
             }
         }
     }
