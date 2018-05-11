@@ -33,7 +33,7 @@ namespace ejercicio_cola_5
 
             Queue miPila3 = new Queue();
 
-            for (int i = 0; i < miPila1.Count; i++)
+            for (int i = 0; i < cantidad1; i++)
             {
                 int numero = int.Parse(miPila1.Dequeue()+"");
                 if (numero >= 18)
@@ -42,7 +42,7 @@ namespace ejercicio_cola_5
                 }
             }
 
-            for (int i = 0; i < miPila2.Count; i++)
+            for (int i = 0; i < cantidad2; i++)
             {
                 int numero = int.Parse(miPila2.Dequeue() + "");
                 if (numero >= 18)
