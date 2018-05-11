@@ -47,13 +47,21 @@ namespace Banco
                             if (cuentas[i] == null)
                             {
                                 cuentas[i] = oCuenta;
+                                break;
                             }
-                            break;
                         }
                     }
                     else
                     {
                         Cuenta oCuenta = new Cuenta(usuario, saldo, observacion, TipoCuenta.credito);
+                        for (int i = 0; i < cantidad; i++)
+                        {
+                            if (cuentas[i] == null)
+                            {
+                                cuentas[i] = oCuenta;
+                                break;
+                            }
+                        }
                     }
                     
                 }
