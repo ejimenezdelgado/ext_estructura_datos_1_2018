@@ -10,7 +10,7 @@ namespace Veterinaria.Entidades
     {
         private int id;
         private string nombre;
-        private List<Animal> animales;
+        public List<Animal> animales;
 
         public Cliente(int id, string nombre)
         {

@@ -11,7 +11,7 @@ namespace Veterinaria.Entidades
         private int id;
         private string descripcion;
         private DateTime fecha;
-        private float precio;
+        public float precio;
 
         public Diagnostico(int id, string descripcion, DateTime fecha, float precio)
         {

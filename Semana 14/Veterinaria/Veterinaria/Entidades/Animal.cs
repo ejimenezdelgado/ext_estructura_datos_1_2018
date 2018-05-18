@@ -7,7 +7,7 @@ namespace Veterinaria.Entidades
         private int id;
         private string nombre;
         private float peso;
-        private List<Diagnostico> diagnosticos;
+        public List<Diagnostico> diagnosticos;
 
 
         public Animal(int id, string nombre,float peso)
