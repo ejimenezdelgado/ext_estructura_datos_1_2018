@@ -4,9 +4,9 @@ namespace Veterinaria.Entidades
 {
     public class Animal
     {
-        private int id;
-        private string nombre;
-        private float peso;
+        public int id;
+        public string nombre;
+        public float peso;
         public List<Diagnostico> diagnosticos;
 
 

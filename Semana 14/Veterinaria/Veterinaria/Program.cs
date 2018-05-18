@@ -29,14 +29,14 @@ namespace Veterinaria
 
             Random oRandom=new Random(23231);
 
-            for (int i = 0; i < oRandom.Next(1, 100); i++)
+            for (int i = 0; i < 100; i++)
             {
                 diagnosticos.Add(
                     oDiagnosticoLogica.AgregarDiagnostico(diagnosticos, "Dianostico " + i, float.Parse((oRandom.NextDouble() * 100.0 - (100.0 / 2.0)).ToString())));
             }
 
 
-            for (int i = 0; i < oRandom.Next(1, 100); i++)
+            for (int i = 0; i < 100; i++)
             {
                 try
                 {
@@ -49,7 +49,7 @@ namespace Veterinaria
                 
             }
 
-            for (int i = 0; i < oRandom.Next(1, 100); i++)
+            for (int i = 0; i < 100; i++)
             {
                 try
                 {
@@ -72,6 +72,17 @@ namespace Veterinaria
                     i--;
                 }
             }
+
+            foreach (var item in clientes)
+            {
+                Console.WriteLine(item.id + " - "+ item.nombre);
+                foreach (var item2 in item.animales)
+                {
+                    Console.WriteLine(item2.id + " - " + item2.nombre + " - " + item2.peso);
+                }
+            }
+            Console.ReadLine();
+
         }
     }
 }

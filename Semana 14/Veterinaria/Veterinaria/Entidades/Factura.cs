@@ -8,11 +8,11 @@ namespace Veterinaria.Entidades
 {
     public class Factura
     {
-        private int id;
-        private DateTime fecha;
-        private float total;
-        private Cliente cliente;
-        private string descripcion;
+        public int id;
+        public DateTime fecha;
+        public float total;
+        public Cliente cliente;
+        public string descripcion;
         public List<Diagnostico> diagnosticos;
 
         public Factura(int id, DateTime fecha,float total,Cliente cliente,string descripcion)

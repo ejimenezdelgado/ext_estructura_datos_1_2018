@@ -8,9 +8,9 @@ namespace Veterinaria.Entidades
 {
     public class Diagnostico
     {
-        private int id;
-        private string descripcion;
-        private DateTime fecha;
+        public int id;
+        public string descripcion;
+        public DateTime fecha;
         public float precio;
 
         public Diagnostico(int id, string descripcion, DateTime fecha, float precio)

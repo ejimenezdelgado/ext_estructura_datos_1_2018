@@ -8,8 +8,8 @@ namespace Veterinaria.Entidades
 {
     public class Cliente
     {
-        private int id;
-        private string nombre;
+        public int id;
+        public string nombre;
         public List<Animal> animales;
 
         public Cliente(int id, string nombre)
