@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Veterinaria.Logica
 {
-    class AnimalLogica
+    public class AnimalLogica
     {
     }
 }

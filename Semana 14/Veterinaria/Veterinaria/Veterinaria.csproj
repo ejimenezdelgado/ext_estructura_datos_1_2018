@@ -47,15 +47,17 @@
     <Compile Include="Entidades\Cliente.cs" />
     <Compile Include="Entidades\Diagnostico.cs" />
     <Compile Include="Entidades\Factura.cs" />
+    <Compile Include="Logica\AnimalLogica.cs" />
+    <Compile Include="Logica\ClienteLogica.cs" />
+    <Compile Include="Logica\DiagnosticoLogica.cs" />
+    <Compile Include="Logica\FacturaLogica.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Logica\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

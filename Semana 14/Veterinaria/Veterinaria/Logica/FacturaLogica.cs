@@ -16,13 +16,13 @@ namespace Veterinaria.Logica
 
         public Factura AgregarFactura(List<Factura> listaFacturas, Cliente cliente, List<Diagnostico> diagnosticos, string descripcion)
         {
-            Factura factura = new Factura(listaFacturas.Count,DateTime.Now,0, cliente, descripcion);
+            Factura factura = new Factura(listaFacturas.Count+1,DateTime.Now,0, cliente, descripcion);
             foreach (var item in diagnosticos)
             {
                 factura.diagnosticos.Add(item);
             }
-
             return factura;
-        }
+        } 
+
     }
 }

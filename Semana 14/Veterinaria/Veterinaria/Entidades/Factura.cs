@@ -13,7 +13,7 @@ namespace Veterinaria.Entidades
         private float total;
         private Cliente cliente;
         private string descripcion;
-        private List<Diagnostico> diagnosticos;
+        public List<Diagnostico> diagnosticos;
 
         public Factura(int id, DateTime fecha,float total,Cliente cliente,string descripcion)
         {
