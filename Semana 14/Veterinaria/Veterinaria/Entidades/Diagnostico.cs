@@ -19,6 +19,7 @@ namespace Veterinaria.Entidades
             this.descripcion = descripcion;
             this.fecha = fecha;
             this.precio = precio;
+
         }
     }
 }

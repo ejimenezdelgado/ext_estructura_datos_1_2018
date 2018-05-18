@@ -16,6 +16,7 @@ namespace Veterinaria.Entidades
             this.nombre = nombre;
             this.peso = peso;
             this.diagnosticos = new List<Diagnostico>();
+
         }
 
     }
