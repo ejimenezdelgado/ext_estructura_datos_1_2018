@@ -9,6 +9,7 @@ namespace Veterinaria.Entidades
         private float peso;
         private List<Diagnostico> diagnosticos;
 
+
         public Animal(int id, string nombre,float peso)
         {
             this.id = id;
@@ -16,5 +17,6 @@ namespace Veterinaria.Entidades
             this.peso = peso;
             this.diagnosticos = new List<Diagnostico>();
         }
+
     }
 }
