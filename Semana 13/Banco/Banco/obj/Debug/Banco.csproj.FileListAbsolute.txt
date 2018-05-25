@@ -1,0 +1,6 @@
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 13\Banco\Banco\bin\Debug\Banco.exe.config
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 13\Banco\Banco\bin\Debug\Banco.exe
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 13\Banco\Banco\bin\Debug\Banco.pdb
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 13\Banco\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 13\Banco\Banco\obj\Debug\Banco.exe
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 13\Banco\Banco\obj\Debug\Banco.pdb

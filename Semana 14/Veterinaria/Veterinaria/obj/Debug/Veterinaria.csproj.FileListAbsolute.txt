@@ -1,0 +1,6 @@
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 14\Veterinaria\Veterinaria\bin\Debug\Veterinaria.exe.config
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 14\Veterinaria\Veterinaria\bin\Debug\Veterinaria.exe
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 14\Veterinaria\Veterinaria\bin\Debug\Veterinaria.pdb
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 14\Veterinaria\Veterinaria\obj\Debug\Veterinaria.csprojResolveAssemblyReference.cache
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 14\Veterinaria\Veterinaria\obj\Debug\Veterinaria.exe
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\Semana 14\Veterinaria\Veterinaria\obj\Debug\Veterinaria.pdb

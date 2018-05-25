@@ -1,0 +1,6 @@
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\semana 11\ejercicio_cola_5\ejercicio_cola_5\bin\Debug\ejercicio_cola_5.exe.config
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\semana 11\ejercicio_cola_5\ejercicio_cola_5\bin\Debug\ejercicio_cola_5.exe
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\semana 11\ejercicio_cola_5\ejercicio_cola_5\bin\Debug\ejercicio_cola_5.pdb
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\semana 11\ejercicio_cola_5\ejercicio_cola_5\obj\Debug\ejercicio_cola_5.csprojResolveAssemblyReference.cache
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\semana 11\ejercicio_cola_5\ejercicio_cola_5\obj\Debug\ejercicio_cola_5.exe
+C:\Universidad\UTN\2018\UTN\I cuatrimestre\Tecnico de programacion\Estructuras de Datos\ext_estructura_datos_1_2018\semana 11\ejercicio_cola_5\ejercicio_cola_5\obj\Debug\ejercicio_cola_5.pdb
